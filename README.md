@@ -837,7 +837,7 @@ nmap -sV --version-intensity 5 -p <open_ports> 192.168.1.10 -oN versions.txt
 
 ## 🔗 Connect
 
-> Created by **SigintRecon** — Aspiring Red Team Operator  
+> Created by **SigintRecon**  
 > GitHub: [github.com/sigintrecon](https://github.com/sigintrecon)  
 > TryHackMe: [tryhackme.com/p/sigintrecon](https://tryhackme.com/p/sigintrecon)
 
